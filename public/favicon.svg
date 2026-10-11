@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="DoorMarket">
+  <rect width="32" height="32" rx="7" fill="#1A1A1A"/>
+  <rect x="8" y="4" width="16" height="24" rx="1.5" fill="#F7F4EF"/>
+  <rect x="19" y="12" width="2.5" height="8" rx="1.2" fill="#A8895A"/>
+</svg>
